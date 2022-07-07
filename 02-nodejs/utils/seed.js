@@ -16,4 +16,4 @@ const users = _.times(AMMOUNT.USERS, n => ({
 User.insertMany(users).then(() => {
   console.log('Seed complete')
   process.exit(0)
-}, console.error.bind(console))
+}, console.error.bind('es un error',console))

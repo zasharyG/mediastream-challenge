@@ -14,6 +14,6 @@ console.log('Success!')
 
 /**
  * Time and space complexity in O() notation is:
- *   - time complexity: TODO
- *   - space complexity: TODO
+ *   - time complexity: Es analizar como cambia el tiempo de ejecucion de un algoritmo a medida que aumenta la entrada.
+ *   - space complexity: Es el espacio requerido por el algoritmo sin incluir las entradas.
  */
